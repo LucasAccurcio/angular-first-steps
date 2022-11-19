@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class FooterComponent {
 
+  writeBy = 'Lucas Accurcio';
+  writtenIn = 'Angular';
+  writerGithub = 'https://wwww.github.com/lucasaccurcio';
+
 }
