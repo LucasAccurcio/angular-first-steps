@@ -1,0 +1,11 @@
+.home__container {
+  align-items: center;
+  background-color: rgb(124, 125, 128);
+  color: aliceblue;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  position: fixed;
+  top: 10vh;
+  width: 100%;
+}

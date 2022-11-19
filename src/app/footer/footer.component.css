@@ -1,0 +1,11 @@
+.footer__container {
+  align-items: center;
+  background-color: royalblue;
+  bottom: 0;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+  position: fixed;
+  width: 100%;
+}
