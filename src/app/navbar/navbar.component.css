@@ -1,0 +1,11 @@
+.nav__container {
+  align-items: center;
+  background-color: rgb(1, 7, 22);
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+  position: fixed;  
+  top: 10vh;
+  width: 100%;
+}
