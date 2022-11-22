@@ -1,11 +1,11 @@
 .nav__container {
-  align-items: center;
+  /* align-items: center;
   background-color: rgb(1, 7, 22);
-  color: aliceblue;
+  color: aliceblue; */
   display: flex;
-  justify-content: center;
-  padding: 15px 0;
+  /* justify-content: center; */
+  /* padding: 15px 0; */
   position: fixed;  
-  top: 10vh;
+  top: 8vh;
   width: 100%;
 }
